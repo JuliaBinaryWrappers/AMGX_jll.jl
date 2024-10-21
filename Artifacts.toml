@@ -1,33 +1,132 @@
 [[AMGX]]
 arch = "x86_64"
-cuda = "10.2"
-git-tree-sha1 = "b572c7af08477345578a9f1631a4d9cf60bc7a74"
+cuda = "11.4"
+git-tree-sha1 = "9c2021b0e1170d4b8be26ca84135c9a8e01af2d0"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[AMGX.download]]
-    sha256 = "426e6519514d90833d80a977587984e788f3fc492afd57758aef6e72a2dea963"
-    url = "https://github.com/JuliaBinaryWrappers/AMGX_jll.jl/releases/download/AMGX-v2.3.0+1/AMGX.v2.3.0.x86_64-linux-gnu-cuda+10.2.tar.gz"
+    sha256 = "2b566b672347a274e7bb635a6f862b94c1c6a09aa66d9f3171feeba50bcfffa9"
+    url = "https://github.com/JuliaBinaryWrappers/AMGX_jll.jl/releases/download/AMGX-v2.4.0+0/AMGX.v2.4.0.x86_64-linux-gnu-cuda+11.4.tar.gz"
 [[AMGX]]
 arch = "x86_64"
-cuda = "11.0"
-git-tree-sha1 = "1938d7411c7fdec8ae704cfef0c9d53a0ee08866"
+cuda = "11.5"
+git-tree-sha1 = "79c75e34e24144f3bae67faadbd4175d4fa2bfb9"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[AMGX.download]]
-    sha256 = "1ead75a56c9584347d3c1a22d17585f56b01ca58fe3a246941ad8fb95044064a"
-    url = "https://github.com/JuliaBinaryWrappers/AMGX_jll.jl/releases/download/AMGX-v2.3.0+1/AMGX.v2.3.0.x86_64-linux-gnu-cuda+11.0.tar.gz"
+    sha256 = "47ba04a00a6e311ba2884126dd6a3e256fde57e7a5a68e35800e2b53a49d3eab"
+    url = "https://github.com/JuliaBinaryWrappers/AMGX_jll.jl/releases/download/AMGX-v2.4.0+0/AMGX.v2.4.0.x86_64-linux-gnu-cuda+11.5.tar.gz"
 [[AMGX]]
 arch = "x86_64"
-cuda = "11.1"
-git-tree-sha1 = "a0a1f8807ddfe86ef748f19020fa9e1a0b6e6881"
+cuda = "11.6"
+git-tree-sha1 = "aad2a8e787ff452f1827a3d7d86450ac1f060a2f"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[AMGX.download]]
-    sha256 = "cdaca6d228c11c516090ee47de5936536f83b7bc2e6542eb500b296be83295dc"
-    url = "https://github.com/JuliaBinaryWrappers/AMGX_jll.jl/releases/download/AMGX-v2.3.0+1/AMGX.v2.3.0.x86_64-linux-gnu-cuda+11.1.tar.gz"
+    sha256 = "117652aca6476551ddb0e10f6cadc438c5f693e580fbb371bbcef7e36b1af692"
+    url = "https://github.com/JuliaBinaryWrappers/AMGX_jll.jl/releases/download/AMGX-v2.4.0+0/AMGX.v2.4.0.x86_64-linux-gnu-cuda+11.6.tar.gz"
+[[AMGX]]
+arch = "x86_64"
+cuda = "11.7"
+git-tree-sha1 = "a9c71694cde31733b01cd578578174517d4c508f"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[AMGX.download]]
+    sha256 = "0946feb847cea7b34b5c95cd4a86a36b47cef6d87e6ccc5e6e8d20004929fccc"
+    url = "https://github.com/JuliaBinaryWrappers/AMGX_jll.jl/releases/download/AMGX-v2.4.0+0/AMGX.v2.4.0.x86_64-linux-gnu-cuda+11.7.tar.gz"
+[[AMGX]]
+arch = "x86_64"
+cuda = "11.8"
+git-tree-sha1 = "e9b06d1b67344d27faaa773c40d584d98c10eca3"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[AMGX.download]]
+    sha256 = "acef50d893caf46c374f2438869776811187366f12c35d430a11402903cc156f"
+    url = "https://github.com/JuliaBinaryWrappers/AMGX_jll.jl/releases/download/AMGX-v2.4.0+0/AMGX.v2.4.0.x86_64-linux-gnu-cuda+11.8.tar.gz"
+[[AMGX]]
+arch = "x86_64"
+cuda = "12.0"
+git-tree-sha1 = "ed42a933186be4ab8926d005787605a57bc2cac4"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[AMGX.download]]
+    sha256 = "5e20a543ef7ac28ace273e83074506e5b7a62e3753c5c61dc48816e3a8dbbea3"
+    url = "https://github.com/JuliaBinaryWrappers/AMGX_jll.jl/releases/download/AMGX-v2.4.0+0/AMGX.v2.4.0.x86_64-linux-gnu-cuda+12.0.tar.gz"
+[[AMGX]]
+arch = "x86_64"
+cuda = "12.1"
+git-tree-sha1 = "43b8e2c7e1c48b2e6c7cad82a5d33ba820c84e9e"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[AMGX.download]]
+    sha256 = "f1df4c1b362af32cade0ef0764a16a5731fec66cdef695a083582d038bad0c86"
+    url = "https://github.com/JuliaBinaryWrappers/AMGX_jll.jl/releases/download/AMGX-v2.4.0+0/AMGX.v2.4.0.x86_64-linux-gnu-cuda+12.1.tar.gz"
+[[AMGX]]
+arch = "x86_64"
+cuda = "12.2"
+git-tree-sha1 = "80e0ea6401e35bc9d39e44aeadfe2de96f46ade0"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[AMGX.download]]
+    sha256 = "6ee1df74c062350be8bde10e91e472fb9beacd37c991d8cd2c01f5f8c6f5de15"
+    url = "https://github.com/JuliaBinaryWrappers/AMGX_jll.jl/releases/download/AMGX-v2.4.0+0/AMGX.v2.4.0.x86_64-linux-gnu-cuda+12.2.tar.gz"
+[[AMGX]]
+arch = "x86_64"
+cuda = "12.3"
+git-tree-sha1 = "808bfba9b83bef5e5287d9ed981722b20231fc8e"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[AMGX.download]]
+    sha256 = "ce221fbe976a1bef00f66d41bbf682278f086ce6a948198c2fcb42b5ffea7c60"
+    url = "https://github.com/JuliaBinaryWrappers/AMGX_jll.jl/releases/download/AMGX-v2.4.0+0/AMGX.v2.4.0.x86_64-linux-gnu-cuda+12.3.tar.gz"
+[[AMGX]]
+arch = "x86_64"
+cuda = "12.4"
+git-tree-sha1 = "15ea0b6867ca42e4c8227a43301e3400e8e6173b"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[AMGX.download]]
+    sha256 = "97e8f79228354f635768b6336f10c3e1979503e28c48f8602250d55030b77feb"
+    url = "https://github.com/JuliaBinaryWrappers/AMGX_jll.jl/releases/download/AMGX-v2.4.0+0/AMGX.v2.4.0.x86_64-linux-gnu-cuda+12.4.tar.gz"
+[[AMGX]]
+arch = "x86_64"
+cuda = "12.5"
+git-tree-sha1 = "5d395f0fe0e36b6ba1e2ad79d943ff2ba322f34f"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[AMGX.download]]
+    sha256 = "b5bd29be0a0f85e2af1f29c94a32ae3e510986ff74f0b58a5b7c3c556878273c"
+    url = "https://github.com/JuliaBinaryWrappers/AMGX_jll.jl/releases/download/AMGX-v2.4.0+0/AMGX.v2.4.0.x86_64-linux-gnu-cuda+12.5.tar.gz"
+[[AMGX]]
+arch = "x86_64"
+cuda = "12.6"
+git-tree-sha1 = "f7915038d76323d5687cbcc9309cf4e57a20d093"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[AMGX.download]]
+    sha256 = "fbcb5b6b07ed09b07c07d781a6f08e10653cc95a5e549f421b32e59fd17e012b"
+    url = "https://github.com/JuliaBinaryWrappers/AMGX_jll.jl/releases/download/AMGX-v2.4.0+0/AMGX.v2.4.0.x86_64-linux-gnu-cuda+12.6.tar.gz"
