@@ -7,5 +7,5 @@ Base.include(@__MODULE__, joinpath("..", ".pkg", "platform_augmentation.jl"))
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("AMGX")
-JLLWrappers.@generate_main_file("AMGX", UUID("656d14af-56e4-5275-8e68-4e861d7b5043"))
+JLLWrappers.@generate_main_file("AMGX", Base.UUID("656d14af-56e4-5275-8e68-4e861d7b5043"))
 end  # module AMGX_jll
